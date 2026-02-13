@@ -4,4 +4,4 @@ Escape Team 4
 
 Group Members:
 - Isabella Chou (ic16)
-- Nolan Wang ()
+- Nolan Wang (nolanw3)
