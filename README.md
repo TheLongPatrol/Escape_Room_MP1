@@ -8,7 +8,7 @@ Group Members:
 
 # Resources
 3D Models
-Sci-fi door: https://sketchfab.com/3d-models/sci-fi-door-a55820482fb8497ba9f132c9c765f1b4
+Sci-fi door: https://sketchfab.com/3d-models/sci-fi-door-a55820482fb8497ba9f132c9c765f1b4 <br>
 Key card: https://sketchfab.com/3d-models/sonic-3-card-88354bfd00104fefb041e92c791da3a4
 Card reader: https://sketchfab.com/3d-models/card-security-reader-9ff3c8199f364a1ea483e36211fe14b8
 Round door key: https://sketchfab.com/3d-models/modern-house-key-b0d34e98997c4f739d8d8b6e9209bfe3
