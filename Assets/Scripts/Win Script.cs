@@ -4,6 +4,11 @@ public class WinScript : MonoBehaviour
 {
     public GameObject effects;
     private Canvas canvas;
+
+    public AudioSource audioSource;
+    public AudioClip clip;
+    public float volume=0.5f;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -13,13 +18,11 @@ public class WinScript : MonoBehaviour
         canvas.enabled = false;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
     public void Win() {
         canvas.enabled = true;
         effects.SetActive(true);
+
+        // play SFX of win celebration
+        audioSource.PlayOneShot(clip, volume);
     }
 }
