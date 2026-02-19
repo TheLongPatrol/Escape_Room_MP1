@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1301418d5d9196e4994e9ffc7e039ccb
+guid: 2627668ad878466459156aef8b2b18b8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -143,5 +143,5 @@ AssetOrigin:
   productId: 31249
   packageName: 3D Props - Adorable Foods
   packageVersion: 1.0.2
-  assetPath: Assets/downloaded_models/egg/Textures/egg.png
+  assetPath: Assets/downloaded_models/egg/Textures/banana.png
   uploadId: 808732

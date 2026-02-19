@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 214315961896cb246a09ddccf67044d7
+guid: 8db774d63ffa4304fb8dddd6116ead54
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable:
@@ -17,7 +17,7 @@ ModelImporter:
     second: //RootNode
   - first:
       43: 4300000
-    second: egg
+    second: apple
   - first:
       95: 9500000
     second: //RootNode
@@ -130,5 +130,5 @@ AssetOrigin:
   productId: 31249
   packageName: 3D Props - Adorable Foods
   packageVersion: 1.0.2
-  assetPath: Assets/downloaded_models/egg/FBX/egg.FBX
+  assetPath: Assets/downloaded_models/egg/FBX/apple.FBX
   uploadId: 808732
