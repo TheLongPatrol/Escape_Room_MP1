@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 0a225569439b1894a819eae8cdfb738c
-DefaultImporter:
+guid: 06fb90faaf9d6e84dbf735b921683aee
+PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 31249
   packageName: 3D Props - Adorable Foods
   packageVersion: 1.0.2
-  assetPath: Assets/downloaded_models/egg/Scene/AdorableFoods.unity
+  assetPath: Assets/downloaded_models/egg/Prefabs/apple.prefab
   uploadId: 808732
