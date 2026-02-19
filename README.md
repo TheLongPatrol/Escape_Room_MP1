@@ -6,6 +6,10 @@ Group Members:
 - Isabella Chou (ic16)
 - Nolan Wang (nolanw3)
 
+# About The Game
+This is a VR game created on Unity 6.3 and tested on the Meta Quest 3.<br/>
+It is an escape room game set in a fantastical sci-fi laboratory world. Your mission is to rescue the stolen egg out of the evil animal laboratory... Can you do it?<br/>
+
 # Resources
 3D Models<br/>
 Sci-fi door: https://sketchfab.com/3d-models/sci-fi-door-a55820482fb8497ba9f132c9c765f1b4 <br/>
